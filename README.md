@@ -1,5 +1,5 @@
 # webservice-soap-wsdl
-<h3>Démarrer le serveur jx-ws sur le port 8080</h3>
+<h3>Démarrer le serveur jax-ws sur le port 8080</h3>
 <img src="captures/1.jpg">
 <h3>Voir le schéma XML à partir du WSDL</h3>
 <img src="captures/2.jpg">
